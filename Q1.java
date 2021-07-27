@@ -7,7 +7,7 @@ package LAB1;
 import java.util.Scanner;
 /**
  *
- * @author sathaiah
+ * @author sathaiah balaji
  */
 public class Q1
 {
